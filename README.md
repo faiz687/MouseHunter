@@ -19,14 +19,14 @@ horizontal steps to reach it (we do not move diagonally).
 
 ## Demo
 
- **Start Game**
+###### **Start Game**
 ![](Images/StartImage.png)
 
 
-**User Selection**
+###### **User Selection**
 ![](Images/UserInput.png)
 
 
-**End game & Restart option**
+######  **End game & Restart option**
 ![](Images/GameFinish.png)
 
