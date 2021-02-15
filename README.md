@@ -2,7 +2,7 @@
 A Grid - Based Game
 
 ## Languages
-Pyhton3
+Python3
 
 ## Game Description 
 A Python 3 game called Mouse Hunter. In the game a hunter tries to
