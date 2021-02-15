@@ -1,4 +1,4 @@
-## Mouse Hunter  
+## Project Name : Mouse Hunter  
 A Grid - Based Game
 
 ## Languages
