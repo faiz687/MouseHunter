@@ -19,7 +19,7 @@ horizontal steps to reach it (we do not move diagonally).
 
 ## Demo
 
- *Start Game*
+ **Start Game**
 ![](Images/StartImage.png)
 
 
