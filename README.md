@@ -21,7 +21,9 @@ horizontal steps to reach it (we do not move diagonally).
 1. Clone Repository
 2. Navigate to  /MouseHunter/Main
 3. Run Mouse_hunter.py
-```python3 Mouse_hunter.py
+```
+python3 Mouse_hunter.py
+
 ```
 
 ## Demo
