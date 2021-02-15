@@ -10,7 +10,7 @@ catch a mouse who is hiding on a square grid. In each round the hunter guesses a
 and are told the distance from the mouse. The distance is the number of vertical and
 horizontal steps to reach it (we do not move diagonally). 
 
-## Extensions to the game:
+## 
 * An option to change the number of lives.
 * An option to play again at the end.
 * An option to save the game midway for completion later.
