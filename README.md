@@ -17,6 +17,5 @@ horizontal steps to reach it (we do not move diagonally).
 * An option to change the grid size.
 * An option for a reversed game mode: where the user hides the mouse and the computer guesses where it is.
 
-
-
-
+## Demo
+![](images/StartImage.png)
